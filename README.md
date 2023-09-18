@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFSPl10Fa2kzw/profile-displaybackgroundimage-shrink_350_1400/0/1687371013661?e=1700697600&v=beta&t=ihJVsIRc1s6CBRp1y1xeP4rf9nNFLF7Anv1bCfO0Jxs)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFSPl10Fa2kzw/profile-displaybackgroundimage-shrink_350_1400/0/1687371013661?e=1700697600&v=beta&t=ihJVsIRc1s6CBRp1y1xeP4rf9nNFLF7Anv1bCfO0Jxs)
 <h1 align="center">Hi 👋, I'm Habip Akyol</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 <img align= "right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
