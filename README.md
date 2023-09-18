@@ -1,4 +1,3 @@
-![MasterHead](https://i.hizliresim.com/f5shdg7.jpg)
 <h1 align="center">Hi 👋, I'm Habip Akyol</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 <img align= "right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
