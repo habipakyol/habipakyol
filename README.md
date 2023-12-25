@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habipakyol&label=Profile%20views&color=0e75b6&style=flat" alt="habipakyol" /> </p>
 
-- 🔭 I’m currently working on [Picker3D](https://github.com/habipakyol/Picker3D)
+- 🔭 I’m currently working on [ML](https://learn.microsoft.com/tr-tr/training/career-paths/data-scientist)
 
 - 🌱 I’m currently learning **Writing clean code**
 
