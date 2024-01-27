@@ -1,6 +1,6 @@
 ![Header](https://wallpapercave.com/wp/wp7664490.jpg)
 <h1 align="center">Hi 👋, I'm Habip Akyol</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate JR. Data Scientist from Turkey</h3>
 <img align= "right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habipakyol&label=Profile%20views&color=0e75b6&style=flat" alt="habipakyol" /> </p>
