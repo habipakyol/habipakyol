@@ -16,6 +16,7 @@
 ---
 
 ### 🛠️ Technologies & Tools  
+- **Project**: www.atanalir.com.tr
 - **Programming Languages**: Python, C#, SQL, TypeScript  
 - **Frameworks**: ASP.NET Core, React.js, Next.js  
 - **Cloud Services**: Azure (Learning in progress)  
